@@ -1,5 +1,7 @@
 # Maven学习笔记
 
+-- 本地文件路径：/e/workspaces/atom/maven-useful
+
 ## 总结
  - 依赖管理，对 jar 包的统一管理（pom，dependency）
  - 项目构建，对项目信息，项目清理，编译，测试...功能实现（生命周期，插件）
